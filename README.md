@@ -9,6 +9,7 @@ Raphael-DTZero 嘅專題合集。
 | 資料夾 | 內容 | 網站 |
 |---|---|---|
 | [not-an-npc](not-an-npc/) | 唔做 NPC 危機手冊：四種危機（AI 黑客與金融系統、天災、政局亂局、通脹與失業）點準備、發生咗點做。粵語／English／日本語 | [打開](https://raphael-dtzero.github.io/AI-Life/not-an-npc/) |
+| [touch-mouse-setup](https://github.com/Raphael-DTZero/touch-mouse-setup)（另一個 repo） | 通用觸控滑鼠設定程式：Rapoo T8 等觸控滑鼠嘅 Windows 手勢設定（非官方、免費、唔上網） | — |
 
 ## 授權
 
